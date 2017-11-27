@@ -18,7 +18,7 @@ markdownpage: true
 
 ---
 
-All methods and properties listed on this page are public. If you want to take a look at example of what API can do, take a look in [source of default PhotoSwipe UI](https://github.com/dimsemenov/PhotoSwipe/blob/master/src/js/ui/photoswipe-ui-default.js).
+¿Ð°¡ºÒ°¡ [source of default PhotoSwipe UI](https://github.com/dimsemenov/PhotoSwipe/blob/master/src/js/ui/photoswipe-ui-default.js).
 
 You can get PhotoSwipe instance object during the initialization, e.g.:
 
